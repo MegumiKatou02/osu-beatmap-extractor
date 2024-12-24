@@ -6,7 +6,6 @@ from PyQt5.QtWidgets import (
 )
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import QThread, pyqtSignal
-from PyQt5.QtWidgets import QSpacerItem, QSizePolicy
 
 class ExportWorker(QThread):
     progress = pyqtSignal(int)
