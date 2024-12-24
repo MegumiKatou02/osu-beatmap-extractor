@@ -6,3 +6,7 @@
 ![image](https://github.com/user-attachments/assets/0ad02021-5751-4ff1-aa4c-666e734bfc98)
 ### File output:
 ![image](https://github.com/user-attachments/assets/33348492-ec6b-445f-a808-a466cccb2c35)
+## FAQ:
+
+- If the application isn't working, check if you have run it with administrator privileges.
+- If you've exported a .osz file but can't open it, try moving the output folder to drive C or the Desktop and try again.
